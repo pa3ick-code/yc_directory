@@ -22,6 +22,10 @@ export const startupType = defineType({
       type: 'number',
     }),
     defineField({
+      name: 'title',
+      type: 'string',
+    }),
+    defineField({
       name: 'description',
       type: 'text',
     }),
