@@ -9,6 +9,10 @@ const nextConfig: NextConfig = {
         hostname: "*",
       }
     ]
+  },
+
+  experimental: {
+    after: true
   }
 };
 
