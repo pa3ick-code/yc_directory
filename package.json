@@ -11,9 +11,9 @@
   },
   "packageManager": "npm@10.9.0",
   "overrides": {
-    "react": "$react",
-    "react-dom": "$react-dom",
-    "next": "$next"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^13.5.0"
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.1.0",
